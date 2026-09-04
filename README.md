@@ -1,9 +1,9 @@
-# Hii, I'm Lina 👋
+# Hii, I'm Lina :p
 
 ### aka Shiro1337 / TheSilentD3ath
 
 22 y/o developer from Germany 🇩🇪  
-Professional wearer of programmer socks :3
+Professional programmer socks wearer :3
 
 I like building things, breaking things and then spending way too long figuring out why they broke.
 
