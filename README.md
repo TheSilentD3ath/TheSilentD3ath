@@ -80,9 +80,9 @@ I run my own server infrastructure with things like:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheSilentD3ath&show_icons=true&theme=tokyonight)
+![GitHub Stats](./profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSilentD3ath&layout=compact&theme=tokyonight)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
