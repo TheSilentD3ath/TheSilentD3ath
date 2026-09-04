@@ -82,6 +82,7 @@ I run my own server infrastructure with things like:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shiro1337&show_icons=true&theme=tokyonight)
 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiro1337&layout=compact&theme=tokyonight)
 
 ---
