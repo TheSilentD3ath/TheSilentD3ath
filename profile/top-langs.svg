@@ -8,9 +8,9 @@
 <rect x="0.5" y="0.5" width="494" height="219" rx="6" fill="#1a1b27" stroke="#30363d"/>
 
 <text x="25" y="35" class="title">Most Used Languages</text>
-<rect x="25.00" y="55" width="284.49" height="10" fill="#b07219"/>
-<rect x="309.49" y="55" width="102.99" height="10" fill="#7355dd"/>
-<rect x="412.48" y="55" width="55.10" height="10" fill="#012456"/>
+<rect x="25.00" y="55" width="284.16" height="10" fill="#b07219"/>
+<rect x="309.16" y="55" width="103.40" height="10" fill="#7355dd"/>
+<rect x="412.55" y="55" width="55.04" height="10" fill="#012456"/>
 <rect x="467.59" y="55" width="2.35" height="10" fill="#3572A5"/>
 <rect x="469.94" y="55" width="0.05" height="10" fill="#C1F12E"/>
 <rect x="469.99" y="55" width="0.01" height="10" fill="#E22837"/>
@@ -19,7 +19,7 @@
 <text x="235" y="95" text-anchor="end" class="small">63.9%</text>
 <circle cx="265" cy="90" r="5" fill="#7355dd"/>
 <text x="278" y="95" class="label">C#</text>
-<text x="470" y="95" text-anchor="end" class="small">23.1%</text>
+<text x="470" y="95" text-anchor="end" class="small">23.2%</text>
 <circle cx="30" cy="128" r="5" fill="#012456"/>
 <text x="43" y="133" class="label">PowerShell</text>
 <text x="235" y="133" text-anchor="end" class="small">12.4%</text>
