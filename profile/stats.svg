@@ -9,7 +9,7 @@
 
 <text x="25" y="35" class="title">TheSilentD3ath's GitHub Stats</text>
 <text x="25" y="68" class="label">Contributions this year</text>
-<text x="455" y="68" text-anchor="end" class="value">32</text>
+<text x="455" y="68" text-anchor="end" class="value">36</text>
 <text x="25" y="96" class="label">Public repositories</text>
 <text x="455" y="96" text-anchor="end" class="value">5</text>
 <text x="25" y="124" class="label">Total stars</text>
@@ -17,5 +17,5 @@
 <text x="25" y="152" class="label">Total forks</text>
 <text x="455" y="152" text-anchor="end" class="value">1</text>
 <text x="25" y="178" class="label">Followers</text>
-<text x="455" y="178" text-anchor="end" class="value">7</text>
+<text x="455" y="178" text-anchor="end" class="value">8</text>
 </svg>
