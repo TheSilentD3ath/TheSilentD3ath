@@ -68,6 +68,13 @@ I run my own server infrastructure with things like:
 
 ---
 
+## Certifications
+
+- Hornetsecurity Certified Engineer (CET) — 2026
+- MailStore Certified Archiving Specialist (MCAS) — 2026
+
+---
+
 ## 🦈 About me
 
 - 👩 she/her
